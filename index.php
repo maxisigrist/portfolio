@@ -48,7 +48,7 @@
                 <a href="mailto:maxi_sigrist@hotmail.com">maxi_sigrist@hotmail.com</a>
             </div>
         </div>
-        <a href="https://api.whatsapp.com/send?phone=+543535656422" target="_blank"><i
+        <a href="https://api.whatsapp.com/send?phone=+5493535656422" target="_blank"><i
                 class="fa-brands fa-whatsapp px-3 pt-3 pb-4"></i></a>
     </footer>
 </body>
