@@ -25,8 +25,7 @@ $pagina = "sobre-mi";
             <div class="row">
                 <div class="col-12 col-sm-7">
                     <h1 class="col-12 py-5">Sobre mí</h1>
-                    <p>Apasionado por la tecnología y gestión de proyectos. Soy docente de cursos de programación Full
-                        Stack y de Base de datos.</p>
+                    <p>Apasionado por la tecnología y reparacion de notebook y pc. Soy tecnico en reparacion de hardware.</p>
                     <a href="contacto.html" class="btn btn-rojo my-5 d-none d-sm-block w-25">Enviar mensaje</a>
                 </div>
                 <div class="col-10 col-sm-3 py-5 pe-5 d-none d-sm-block">
@@ -150,11 +149,10 @@ $pagina = "sobre-mi";
                     <img src="images/logo-depcsuite.svg" alt="DEPCSUITE" class="img-fluid">
                 </div>
                 <div class="col-sm-10 col-12 my-3">
-                    <h3>Director- Founder</h3>
-                    <h4>DEPCSUITE SA</h4>
+                    <h3>Socio</h3>
+                    <h4>SOS Notebook</h4>
                     <h5>2016 - presente</h5>
-                    <p>Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: cloud services, software factory y academia de programación para latinoamérica, con base en Buenos Aires y Bogotá. Desarrollo de nuevos
-                    productos, coordinación del área de sistemas, educación y docente de cursos tecnológicos. Desarrollo de nuevos productos. Coordinación del área de sistemas y educación.</p>
+                    <p>Reparacion de notebook, pc y all in one.</p>
                 </div>
                 <div class="col-sm-2 d-none d-sm-block p-5">
                     <img src="images/uba.jpg" alt="Universidad de Buenos Aires" class="img-fluid">
